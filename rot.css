@@ -1,7 +1,9 @@
 .navbar.navbar-site {
     background-color: #0d475c !IMPORTANT;
 }
-
 .nav-link {color: #fff !IMPORTANT;
+}
+.tab-inner{
+font-family: 'Josefin Sans', sans-serif  !IMPORTANT;
 }
 
